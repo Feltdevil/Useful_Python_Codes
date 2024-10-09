@@ -10,7 +10,6 @@ I develop Python scripts and applications that address real-world problems. My f
 - Automation scripts
 - Web scraping
 - Excel data processing
-- Game development (with funny commentary)
 
 ## Featured Projects
 
@@ -22,9 +21,6 @@ A script designed to extract information from websites efficiently and effective
 
 ### 3. Automation Scripts
 Various scripts that automate repetitive tasks, saving time and effort.
-
-### 4. Gaming Commentary Videos
-A collection of gaming videos with funny commentary that showcase my personality and creativity.
 
 ## Skills
 
@@ -39,14 +35,10 @@ Feel free to browse through my projects. If you find something interesting or ha
 
 ### Contact
 
-You can connect with me on [LinkedIn](your-linkedin-url) or check out my [personal website](your-website-url).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/yash-raj-singh-a2113231b).
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new project ideas, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Thank you for visiting my GitHub profile!
