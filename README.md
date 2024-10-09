@@ -45,5 +45,5 @@ Thank you for visiting my GitHub profile!
 
 # CURRENT CODES
 
-- Excel_Reader.py: Read Data from a Excel and Output it
+- Excel_Reader.py: Read Data from a Excel and Output it in the terminal. You can change/Add another code to make it save the information for Data Analysis, making it usable for other works efficiently.
 - autoleftmouse.py: once running, each time you left click will start to auto clicking on the spot. you can close the application using F7 button. Pressing Left Mouse Button will Toggle Autoclicking.
