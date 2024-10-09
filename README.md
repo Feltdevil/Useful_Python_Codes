@@ -43,7 +43,7 @@ Contributions are welcome! If you have suggestions for improvements or new proje
 
 Thank you for visiting my GitHub profile!
 
-#CURRENT CODES
+# CURRENT CODES
 
 - Excel_Reader.py: Read Data from a Excel and Output it
 - autoleftmouse.py: once running, each time you left click will start to auto clicking on the spot. you can close the application using F7 button. Pressing Left Mouse Button will Toggle Autoclicking.
